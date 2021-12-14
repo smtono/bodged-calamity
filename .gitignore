@@ -396,3 +396,28 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# For cs
+[Oo]bj
+[Bb]in
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+*.ncb
+*.log 
+*.DS_Store
+[Tt]humbs.db 
+_ReSharper.*
+*.resharper
+Ankh.NoLoad
+
+# Specific to Tono comp
+*.sln
+*.csproj
+*.settings
+*.config
+*.resx
+AssemblyInfo.cs
+Resources.Designer.cs
+Settings.Designer.cs
