@@ -1,7 +1,7 @@
 ﻿
 namespace bodged_calamity
 {
-    partial class Form1
+    partial class TitleGUI
     {
         /// <summary>
         /// Required designer variable.
@@ -32,10 +32,9 @@ namespace bodged_calamity
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Text = "Title";
         }
 
         #endregion
     }
 }
-

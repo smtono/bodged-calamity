@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace bodged_calamity
 {
-    public partial class Form1 : Form
+    public partial class TitleGUI : Form
     {
-        public Form1()
+        public TitleGUI()
         {
             InitializeComponent();
         }
